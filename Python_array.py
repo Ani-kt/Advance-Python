@@ -1,6 +1,7 @@
 '''
 Arrays have elements which are of same type whereas list can have elements of different type.
 Arrays in Python can expand or shrink as per our need.
+Date-30th Oct 2020
 '''
 # * is used to import everything from array module.
 from array import *
