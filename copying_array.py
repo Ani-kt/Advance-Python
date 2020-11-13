@@ -15,7 +15,7 @@ arr1=array([],int)
 arr2=array([],int)
 arr3=[]
 arr4=[]
-n=int(input("Enter the length of arr1: "))
+n=int(input("Enter the length of arr1: "))#length must be same 
 s=int(input("Enter the length of arr2: "))
 for i in range(n):
     arr3.append(int(input()))
